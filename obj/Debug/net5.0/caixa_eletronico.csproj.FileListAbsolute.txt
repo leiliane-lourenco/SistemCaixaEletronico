@@ -1,0 +1,16 @@
+C:\C#_Palhinha\caixa_eletronico\bin\Debug\net5.0\caixa_eletronico.exe
+C:\C#_Palhinha\caixa_eletronico\bin\Debug\net5.0\caixa_eletronico.deps.json
+C:\C#_Palhinha\caixa_eletronico\bin\Debug\net5.0\caixa_eletronico.runtimeconfig.json
+C:\C#_Palhinha\caixa_eletronico\bin\Debug\net5.0\caixa_eletronico.runtimeconfig.dev.json
+C:\C#_Palhinha\caixa_eletronico\bin\Debug\net5.0\caixa_eletronico.dll
+C:\C#_Palhinha\caixa_eletronico\bin\Debug\net5.0\ref\caixa_eletronico.dll
+C:\C#_Palhinha\caixa_eletronico\bin\Debug\net5.0\caixa_eletronico.pdb
+C:\C#_Palhinha\caixa_eletronico\obj\Debug\net5.0\caixa_eletronico.csproj.AssemblyReference.cache
+C:\C#_Palhinha\caixa_eletronico\obj\Debug\net5.0\caixa_eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Palhinha\caixa_eletronico\obj\Debug\net5.0\caixa_eletronico.AssemblyInfoInputs.cache
+C:\C#_Palhinha\caixa_eletronico\obj\Debug\net5.0\caixa_eletronico.AssemblyInfo.cs
+C:\C#_Palhinha\caixa_eletronico\obj\Debug\net5.0\caixa_eletronico.csproj.CoreCompileInputs.cache
+C:\C#_Palhinha\caixa_eletronico\obj\Debug\net5.0\caixa_eletronico.dll
+C:\C#_Palhinha\caixa_eletronico\obj\Debug\net5.0\ref\caixa_eletronico.dll
+C:\C#_Palhinha\caixa_eletronico\obj\Debug\net5.0\caixa_eletronico.pdb
+C:\C#_Palhinha\caixa_eletronico\obj\Debug\net5.0\caixa_eletronico.genruntimeconfig.cache
